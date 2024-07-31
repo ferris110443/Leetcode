@@ -9,7 +9,7 @@ Increment the large integer by one and return the resulting array of digits.
  */
 
 
-public class PlusOne_0066 {
+public class A0066_PlusOne {
     public int[] plusOne(int[] digits) {
 
 

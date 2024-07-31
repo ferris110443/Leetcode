@@ -8,7 +8,7 @@ You must write an algorithm with O(log n) runtime complexity.
 /
  */
 
-public class SearchInsertPosition_0035 {
+public class A0035_SearchInsertPosition {
     public int searchInsert(int[] nums, int target) {
 
         int l = 0;

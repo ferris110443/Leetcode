@@ -24,7 +24,7 @@ package Array;
 
 
 import java.util.HashMap;
-public class TwoSum_0001 {
+public class A0001_TwoSum {
     // Brutal force solution
     // Time complexity: O(n^2)
     // Space complexity: O(1)

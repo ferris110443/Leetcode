@@ -18,7 +18,7 @@ Explanation: Your function should return k = 2, with the first two elements of n
 It does not matter what you leave beyond the returned k (hence they are underscores).
 
  */
-public class RemoveDuplicatesFromSortedArray_0026 {
+public class A0026_RemoveDuplicatesFromSortedArray {
 
     //two-pointer
     // time complexity: O(n)

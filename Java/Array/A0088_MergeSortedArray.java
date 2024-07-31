@@ -18,7 +18,7 @@ The result of the merge is [1,2,2,3,5,6] with the underlined elements coming fro
 
  */
 
-public class MergeSortedArray_0088 {
+public class A0088_MergeSortedArray {
 
     //Brutal Solution
     public void merge1(int[] nums1, int m, int[] nums2, int n) {

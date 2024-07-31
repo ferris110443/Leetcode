@@ -30,7 +30,7 @@ If all assertions pass, then your solution will be accepted.
 
 // time complexity: O(n)
 // space complexity: O(1)
-public class RemoveElement_0027 {
+public class A0027_RemoveElement {
 
     public int removeElement(int[] nums, int val) {
 
